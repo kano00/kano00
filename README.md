@@ -41,8 +41,7 @@ I especially enjoy using Java and Python:)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kano00&layout=compact)
 
-[![Kano's GitHub stats](https://github-readme-stats.vercel.app/api?username=kano00)](https://github.com/anuraghazra/github-readme-stats)
-
+![Kano's GitHub stats](https://github-readme-stats.vercel.app/api?username=kano00&include_all_commits=true&count_private=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=kano00)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
