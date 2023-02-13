@@ -12,8 +12,8 @@ I am a senior in CS and passionate about technology, especially machine learning
 
 <h3> Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | C++ | C
-- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | ReactJS
+- 💻 &nbsp; Java | Python | C | C++
+- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | ReactJS | NextJS
 - 🛢 &nbsp; MySQL | Protocol Buffers
 - 📱 &nbsp; Dart | Flutter
 - 🔧 &nbsp; Git | Android Studio
@@ -39,7 +39,9 @@ I especially enjoy using Java and Python:)
 -->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kano00)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kano00&layout=compact)
+
+[![Kano's GitHub stats](https://github-readme-stats.vercel.app/api?username=kano00)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
