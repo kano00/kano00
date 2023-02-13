@@ -43,5 +43,7 @@ I especially enjoy using Java and Python:)
 
 [![Kano's GitHub stats](https://github-readme-stats.vercel.app/api?username=kano00)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=kano00)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
