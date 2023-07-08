@@ -1,5 +1,5 @@
 ## Hey there! I'm Kanoko Goto 👋
-  [![Linkedin Badge](https://img.shields.io/badge/-Kanoko_Goto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanoko-goto-85195b1a1//)](https://www.linkedin.com/in/kanoko-goto-85195b1a1/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Kanoko_Goto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kano-goto/)](https://www.linkedin.com/in/kano-goto)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> About Me </h3>
 I am passionate about technology, especially machine learning.
