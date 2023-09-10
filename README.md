@@ -2,12 +2,10 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Kanoko_Goto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kano-goto/)](https://www.linkedin.com/in/kano-goto)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> About Me </h3>
-I am passionate about technology, especially machine learning.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering.
-- 🤔 &nbsp; Interested in MLOps and Backend. <!--I am interested in using ML to assist decision-making. Recently I am very interested in the application of ML to recommendation systems. I have researched the application of reinforcement learning and computer vision in robotics. -->
-- 🌱 &nbsp;  Learning more about MLOps with GCP.
-- 💬 Hobbies: &nbsp; Reading books, especially science fictions!
+- 🎓 Major: &nbsp; Computer Science
+- 🤔 Interests: &nbsp; ML and MLOps
+- 💬 Hobbies: &nbsp; Reading Sci-fi
 
 
 <h3> Tech Stack</h3>
