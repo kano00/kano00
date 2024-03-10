@@ -1,11 +1,13 @@
-## Hey there! I'm Kanoko Goto 👋
-  [![Linkedin Badge](https://img.shields.io/badge/-Kanoko_Goto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kano-goto/)](https://www.linkedin.com/in/kano-goto)
+## Hey there! I'm Kano Goto 👋
+<!-- 
+ [![Linkedin Badge](https://img.shields.io/badge/-Kanoko_Goto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kano-goto/)](https://www.linkedin.com/in/kano-goto) 
+-->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> About Me </h3>
 
 - 🎓 Major: &nbsp; Computer Science
-- 🤔 Interests: &nbsp; ML and MLOps
-- 💬 Hobbies: &nbsp; Reading Sci-fi
+- 🤔 Interests: &nbsp; MLOps, API development
+<!-- - 💬 Hobbies: &nbsp; Reading Sci-fi -->
 
 
 <h3> Tech Stack</h3>
@@ -15,14 +17,6 @@
 - 🛢 &nbsp; SQL | Protocol Buffers
 - 📱 &nbsp; Dart | Flutter
 - 🔧 &nbsp; Git | Bash
-
-I especially enjoy using Java and Python:)
-
-<!--
-<h3> Achevements</h3>
-- Hackathon ("100 program 2022" held by University of Tokyo): **1st** prize in 140 teams.
-- Competitive programming contest ("Google I/O for Women 2021"): Top 15% in 6000 participants.
--->
 
 <!--
 <h3> Looking for internship opportunities </h3>
